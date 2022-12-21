@@ -1,7 +1,7 @@
 #ifndef APROCESSORTOPOLOGY_H
 #define APROCESSORTOPOLOGY_H
 
-#include "H:/Amboss/ANtKernel.h"
+#include "ANtKernel.h"
 
 #include<bitset>
 
